@@ -1,4 +1,4 @@
-# Hi There, I'm Sami 👋
+# Hi There 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamiFziyen&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFziyen&layout=compact">
 <!-- - 👋 Hi, my name Sami Fziyen
